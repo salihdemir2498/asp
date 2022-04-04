@@ -12,20 +12,23 @@ namespace _02_WithVisualStudioProject
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+      
         public void ConfigureServices(IServiceCollection services)
         {
+            //Bu uygulamada kullanýlacak olan serrvislerin belirlendiði metod.
+            //Servive demek belli bir takým iþleri yapmak için kodlarýn içinde bulunduðu yapýlardýr.
+            //Modül, kütüphane gibi düþünebilirsiniz.
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            //Bu metot uygulamada kullanýlacak olan ara katmanlarýn belirtildiði metotdur.
+            //Ara katman MiddleWare adýylada bilinir.
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //Bu MiddleWare routing iþlemini devreye alýr.
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>

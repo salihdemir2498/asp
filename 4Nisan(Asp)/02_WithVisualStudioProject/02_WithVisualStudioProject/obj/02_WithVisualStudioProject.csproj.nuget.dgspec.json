@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\salih\\source\\repos\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj": {}
+    "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj": {}
   },
   "projects": {
-    "D:\\Users\\salih\\source\\repos\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj": {
+    "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\salih\\source\\repos\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj",
+        "projectUniqueName": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj",
         "projectName": "02_WithVisualStudioProject",
-        "projectPath": "D:\\Users\\salih\\source\\repos\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj",
+        "projectPath": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\02_WithVisualStudioProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\salih\\source\\repos\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\obj\\",
+        "outputPath": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\02_WithVisualStudioProject\\02_WithVisualStudioProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

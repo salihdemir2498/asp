@@ -11,15 +11,24 @@ namespace _02_WithVisualStudioProject
 {
     public class Program
     {
+        //Aslýnda Asp.Net Core uygulamalarý bir console uygulamasýdýr.
         public static void Main(string[] args)
         {
+            //Burasý uygulamanýn baþlangýç noktasýdýr.
+            //Bütün hikaye burada baþlýyor.
+            //Asp.Net Core sunucuyu ayaða kaldýrýyor.
+            //Bu iþi geriye IHostBuilder türünden bir deðer döndürüren
+            //aþagýdaki CreateHostBuilder metodunu kullanarak yapýyor.
             CreateHostBuilder(args).Build().Run();
         }
+        //Bir sunucu ayaða kaldýrýlýrken çeþitli konfigürasyonlara 
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    //Sunucu Startup classýndaki konfigürasyonlar
+                    //kullanýlarak ayaða kaldýrýlýyor.
                     webBuilder.UseStartup<Startup>();
                 });
     }
