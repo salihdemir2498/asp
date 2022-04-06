@@ -9,7 +9,6 @@ D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mv
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\bin\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.pdb
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\bin\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.Views.dll
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\bin\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.Views.pdb
-D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.csproj.AssemblyReference.cache
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.AssemblyInfoInputs.cache
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.AssemblyInfo.cs
@@ -40,3 +39,4 @@ D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mv
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.csproj.CopyComplete
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\Razor\Views\Hakkimda\Index.cshtml.g.cs
 D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\Razor\Views\Iletisim\Index.cshtml.g.cs
+D:\Users\salih\source\repos\asp\4Nisan(Asp)\08_Mvc_WithTemplate_RenderBody\08_Mvc_WithTemplate_RenderBody\obj\Debug\net5.0\08_Mvc_WithTemplate_RenderBody.csproj.AssemblyReference.cache
