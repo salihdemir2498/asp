@@ -1,0 +1,25 @@
+﻿@using MobilyaShowRoom.Models;
+
+@{
+    Layout = "_Layout";
+}
+
+
+
+@{
+    Product product = ViewBag.Product;
+
+    <div class="card mx-auto my-2 w-25 fw-bold p-0 text-center rounded-1">
+        <h5 class="card-body fs-2 bg-dark p-0 text-white">Ürün-@product.ID</h5>
+
+        <section class="card-body text-dark mx-0 bg-white">
+            <h1 class="fs-2">@product.ProductName</h1>
+            <p class="fw-light fs-5">@product.ProductDetail</p>
+            <p class="bg-danger text-white w-75 mx-auto">@product.Price tl</p>
+            <button class="btn btn-primary"><a class="text-white text-decoration-none" href="@Url.ActionLink("index","product")">Products</a></button>
+            <button class="btn btn-primary"><a class="text-white text-decoration-none" href="#">Satın Al</a></button>
+
+        </section>
+        <div class="card-footer text-center bg-light rounded fw-light">Son 4 Ürün</div>
+    </div>
+}

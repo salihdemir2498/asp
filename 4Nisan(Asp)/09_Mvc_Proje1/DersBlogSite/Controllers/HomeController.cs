@@ -20,7 +20,18 @@ namespace DersBlogSite.Controllers
                 new Article {ID=5, Header="React Nedir?" , Content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, iure voluptas quidem veritatis vitae est illum cum beatae quam maxime."},
                 new Article {ID=6, Header="JavaScript Diziler?" , Content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, iure voluptas quidem veritatis vitae est illum cum beatae quam maxime."},
             };
-            return View(articles);
+            //return View(articles);
+
+            //ViewBag.kemal = articles;
+            //return View();
+
+
+            //ViewBag.Mesaj = "Anasayfa";
+            //ViewData["kemal"] = articles;
+            //return View();
+
+            TempData["kemal"] = articles;
+            return View();
         }
     }
 }

@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+          integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="~/css/style2.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <title></title>
+</head>
+
+<body>
+    <div class="container d-flex flex-column">
+        <nav id="n1">
+            <div class="nav-content mt-2 w-100 bg-white">
+                <ul class="d-flex mb-0 flex-wrap">
+                    <li><a href="">ROTA</a></li>
+                    <li><a href="">9 SORUDA</a></li>
+                    <li><a href="">DİKEN ÖZEL</a></li>
+                    <li><a href="">GÜNÜN 11'I</a></li>
+                    <li><a href="">DİKENLİK</a></li>
+                    <li><a href="">AKŞAM POSTASI</a></li>
+                    <li><a href="">VPN HABER</a></li>
+                    <li><a href="">ENGLISH</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="d-flex justify-content-center"><button id="menu-btn">Menü</button></div>
+        <header>
+            <div class="container m-0 p-0">
+                <div class="header-img">
+                    <img src="~/img/top_banner.png" alt="">
+                </div>
+            </div>
+        </header>
+        <nav id="n2">
+            <div class="nav-content bg-white w-100">
+                <ul class="d-flex flex-wrap">
+                    <li><a href="">VİTRİN</a></li>
+                    <li><a href="">AKTÜEL</a></li>
+                    <li><a href="">EKONOMİ</a></li>
+                    <li><a href="">ANALİZ</a></li>
+                    <li><a href="">DÜNYA</a></li>
+                    <li><a href="">MEDYA</a></li>
+                    <li><a href="">KEYİF</a></li>
+                    <li><a href="">AGORA</a></li>
+                    <li><a href="">SANAT</a></li>
+                    <li><a href="">SÜRDÜRÜLEBİRLİK</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="main-content d-flex ">
+            @RenderBody()
+        </div>
+        <div class="footer-widget d-flex row">
+            <div class="widgets-1 col-6 col-sm-3">
+                <div class="widget-1-menu">
+                    <ul class="list-unstyled">
+                        <li><a href="">VİTRİN</a></li>
+                        <li><a href="">AKTÜEL</a></li>
+                        <li><a href="">EKONOMİ</a></li>
+                        <li><a href="">ANALİZ</a></li>
+                        <li><a href="">DÜNYA</a></li>
+                        <li><a href="">MEDYA</a></li>
+                        <li><a href="">KEYİF</a></li>
+                        <li><a href="">AGORA</a></li>
+                        <li><a href="">SANAT</a></li>
+                        <li><a href="">SÜRDÜRÜLEBİLİRLİK</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="widget-2 col-6 col-sm-3">
+                <div class="widget-2-menu ">
+                    <ul class="list-unstyled">
+                        <li><a href="">AGORA</a></li>
+                        <li><a href="">SERHAN'A TAKILANLAR</a></li>
+                        <li><a href="">BİRİNCİ SAYFALAR</a></li>
+                        <li><a href="">GÜNÜN 11'İ</a></li>
+                        <li><a href="">AKŞAM POSTASI</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="widget-3 col-6 col-sm-3">
+                <div class="widget-3-menu ">
+                    https://localhost:5001/
+                    <ul class="list-unstyled">
+                        <li><a href="">BU GAZETE...</a></li>
+                        <li><a href="">SERHAN 26 YAŞINDA</a></li>
+                        <li><a href="">KÜNYE</a></li>
+                        <li><a href="">İLETİŞİM</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="widget-4 col-6 col-sm-3">
+                <div class="widget-4-img-menu">
+                    <div class="img-list">
+                        <ul class="list-unstyled d-flex flex-wrap">
+                            <li><a href=""> <img src="~/img/icons8-mail-24.png" alt=""></a></li>
+                            <li><a href=""><img src="~/img/icons8-facebook-f-24.png" alt=""></a></li>
+                            <li><a href=""><img src="~/img/icons8-google-plus-24.png" alt=""></a></li>
+                            <li><a href=""><img src="~/img/icons8-pinterest-p-24.png" alt=""></a></li>
+                            <li><a href=""><img src="~/img/icons8-rss-a-type-of-web-feed-allows-users-and-applications-to-access-updates-24.png" alt=""></a></li>
+                            <li><a href=""><img src="~/img/icons8-twitter-24.png" alt=""></a></li>
+
+                            <li><a href=""><img src="~/img/icons8-vimeo-24.png" alt=""></a></li>
+                            <li><a href=""><img src="~/img/icons8-youtube-24.png" alt=""></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="footer-text">
+                <p>
+                    "Genç gazeteci arkadaşlarıma! Bu meslek yorucu bir meslektir. Ama, insan büyük bir zevkle çalışır.
+                    Kalemine daima efendi kal, uşak olmamaya gayret et. Mecbur kalırsan kır, sakın satma." Sedat Simavi
+                </p>
+            </div>
+        </footer>
+    </div>
+
+
+
+
+
+    <script src="~/js/site.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" 
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" 
+             crossorigin="anonymous"></script>
+</body>
+
+</html>
