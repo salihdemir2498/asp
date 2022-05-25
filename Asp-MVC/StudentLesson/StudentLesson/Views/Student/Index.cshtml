@@ -1,0 +1,36 @@
+﻿@model List<Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Öğrenciler</h1>
+
+<a asp-action="Create">Yeni Öğrenci Ekle</a>
+
+<div class="row">
+    @foreach (var student in Model)
+    {
+    <div class="col-md-3">
+        <div class="card m-3 text-center" style="width:210px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/1024px-User-avatar.svg.png" class="card-img-top m-auto" style="width:90px; height:80px;" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">@student.StudentName  @student.StudentSurname</h5>
+                <p class="card-text">@student.StudentNo no lu öğrenci</p>
+                <a class="btn btn-sm btn-success" asp-action="Details" asp-route-id="@student.StudentId">Detay</a>
+                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@student.StudentId">Düzenle</a>
+                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@student.StudentId">Sil</a><br /><br />
+                <a asp-controller="StudentLesson" asp-action="Assign" asp-route-id="@student.StudentId" class="btn btn-sm btn-primary">Assign Lesson</a>
+
+            </div>
+        </div>
+    </div>
+    }
+</div>
+
+
+
+@*<a class="btn btn-sm btn-success" asp-action="Details" asp-route-id="@student.StudentId">Detay</a>
+    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@student.StudentId">Düzenle</a>
+    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@student.StudentId">Sil</a></td>*@

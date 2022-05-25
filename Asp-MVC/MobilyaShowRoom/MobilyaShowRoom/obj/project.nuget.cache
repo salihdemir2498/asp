@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDNkA+aZIj7ZgK4F7L1+8tf3OtibpHkb+A0jKx4eFgTRyD9p0wIG5qxs/0mBxE/cn/QmOZxQgFP/TNupnDT2Aw==",
+  "dgSpecHash": "avzLYQrFvHgQQbOeIptqENgeBNJMY9MISvwUfJMCh2amcHuu4+5/3yLgFm9rqgB3nnRwLiDcpBEwprsLL/TI7A==",
   "success": true,
-  "projectFilePath": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj",
+  "projectFilePath": "D:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

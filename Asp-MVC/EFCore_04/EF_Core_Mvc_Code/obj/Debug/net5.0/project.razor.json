@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\EF_Core_Mvc_Code.csproj",
+  "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\EF_Core_Mvc_Code.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,83 +15619,103 @@
   "RootNamespace": "EF_Core_Mvc_Code",
   "Documents": [
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Details.cshtml",
-      "TargetPath": "Views\\Yayinevleri\\Details.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Kitap\\Details.cshtml",
+      "TargetPath": "Views\\Kitap\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Index.cshtml",
-      "TargetPath": "Views\\Yayinevleri\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Edit.cshtml",
-      "TargetPath": "Views\\Tur\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Edit.cshtml",
-      "TargetPath": "Views\\Yayinevleri\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Delete.cshtml",
-      "TargetPath": "Views\\Yayinevleri\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Details.cshtml",
-      "TargetPath": "Views\\Tur\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Create.cshtml",
-      "TargetPath": "Views\\Tur\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Shared\\Error.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Delete.cshtml",
-      "TargetPath": "Views\\Tur\\Delete.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Delete.cshtml",
+      "TargetPath": "Views\\Yayinevleri\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Index.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Edit.cshtml",
+      "TargetPath": "Views\\Tur\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Index.cshtml",
+      "TargetPath": "Views\\Yayinevleri\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Kitap\\Index.cshtml",
+      "TargetPath": "Views\\Kitap\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Details.cshtml",
+      "TargetPath": "Views\\Yayinevleri\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Create.cshtml",
+      "TargetPath": "Views\\Tur\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Index.cshtml",
       "TargetPath": "Views\\Tur\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Kitap\\Edit.cshtml",
+      "TargetPath": "Views\\Kitap\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Kitap\\Delete.cshtml",
+      "TargetPath": "Views\\Kitap\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Details.cshtml",
+      "TargetPath": "Views\\Tur\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Yayinevleri\\Edit.cshtml",
+      "TargetPath": "Views\\Yayinevleri\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\Tur\\Delete.cshtml",
+      "TargetPath": "Views\\Tur\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

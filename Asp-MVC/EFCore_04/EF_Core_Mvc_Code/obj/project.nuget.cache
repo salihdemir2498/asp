@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z58eHSxHlAWdXS0eFLVMMiHPwx9zwGej1mGIr6D80duBN7JetJwXWFGZSiXHB5w10iHa0MhvOfAKP74FviYNNg==",
+  "dgSpecHash": "j7Cbg+WypG1rbaHRHAvTil3juY0zERT08g/6/Xqa21VG+65f8OJOqxHJ1WXzmNNMeNS+LAM3OQDPsG0FVpCKQw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\EFCore_04\\EF_Core_Mvc_Code\\EF_Core_Mvc_Code.csproj",
+  "projectFilePath": "d:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\EFCore_04\\EF_Core_Mvc_Code\\EF_Core_Mvc_Code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

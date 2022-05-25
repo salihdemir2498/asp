@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = EF_Core_Mvc_Code
-build_property.ProjectDir = D:\Users\salih\source\repos\asp\4Nisan(Asp)\EFCore_04\EF_Core_Mvc_Code\
+build_property.ProjectDir = d:\Users\salih\source\repos\asp\Asp-MVC\EFCore_04\EF_Core_Mvc_Code\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj": {}
+    "D:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj": {}
   },
   "projects": {
-    "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj": {
+    "D:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj",
+        "projectUniqueName": "D:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj",
         "projectName": "MobilyaShowRoom",
-        "projectPath": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj",
+        "projectPath": "D:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\MobilyaShowRoom\\MobilyaShowRoom\\MobilyaShowRoom.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\salih\\source\\repos\\asp\\4Nisan(Asp)\\MobilyaShowRoom\\MobilyaShowRoom\\obj\\",
+        "outputPath": "D:\\Users\\salih\\source\\repos\\asp\\Asp-MVC\\MobilyaShowRoom\\MobilyaShowRoom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

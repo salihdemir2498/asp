@@ -1,0 +1,37 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h3>Detaylar</h3>
+
+<div class="row">
+    <div class="col-md-4">
+        <h4>Student Id:</h4>
+        <p>@Model.StudentId</p>
+        <h4>Student Ad:</h4>
+        <p>@Model.StudentName</p>
+        <h4>Student Soyad:</h4>
+        <p>@Model.StudentSurname</p>
+        <h4>Student Date Of Birth:</h4>
+        <p>@Model.StudentDateOfBirth</p>
+        <h4>Student Date Of Registration:</h4>
+        <p>@Model.StudentDateOfRegistration</p>
+        <h4>Student Period:</h4>
+        <p>@Model.StudentPeriod</p>
+        <h4>Student Section</h4>
+        <p>@Model.Section.SectionName</p>
+    </div>
+    @*<div class="col-md-4">
+        <h4>Kategori Adı:</h4>
+        <p>@Model.Category.CategoryName</p>
+        <h4>Yazar Adı:</h4>
+        <p>@Model.Author.AuthorName</p>
+        <h4>Yayımcı Adı:</h4>
+        <p>@Model.Publisher.PublisherName</p>
+    </div>*@
+</div>
+
+<a asp-action="Index">Kategori listesine dön.</a>
